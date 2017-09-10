@@ -1,0 +1,11 @@
+C:\Users\Weiheng Wang\source\repos\SpotBackEndApi\SpotBackEndApi\bin\Debug\netcoreapp2.0\SpotBackEndApi.deps.json
+C:\Users\Weiheng Wang\source\repos\SpotBackEndApi\SpotBackEndApi\bin\Debug\netcoreapp2.0\SpotBackEndApi.runtimeconfig.json
+C:\Users\Weiheng Wang\source\repos\SpotBackEndApi\SpotBackEndApi\bin\Debug\netcoreapp2.0\SpotBackEndApi.runtimeconfig.dev.json
+C:\Users\Weiheng Wang\source\repos\SpotBackEndApi\SpotBackEndApi\bin\Debug\netcoreapp2.0\SpotBackEndApi.dll
+C:\Users\Weiheng Wang\source\repos\SpotBackEndApi\SpotBackEndApi\bin\Debug\netcoreapp2.0\SpotBackEndApi.pdb
+C:\Users\Weiheng Wang\source\repos\SpotBackEndApi\SpotBackEndApi\obj\Debug\netcoreapp2.0\SpotBackEndApi.csprojResolveAssemblyReference.cache
+C:\Users\Weiheng Wang\source\repos\SpotBackEndApi\SpotBackEndApi\obj\Debug\netcoreapp2.0\SpotBackEndApi.csproj.CoreCompileInputs.cache
+C:\Users\Weiheng Wang\source\repos\SpotBackEndApi\SpotBackEndApi\obj\Debug\netcoreapp2.0\SpotBackEndApi.AssemblyInfoInputs.cache
+C:\Users\Weiheng Wang\source\repos\SpotBackEndApi\SpotBackEndApi\obj\Debug\netcoreapp2.0\SpotBackEndApi.AssemblyInfo.cs
+C:\Users\Weiheng Wang\source\repos\SpotBackEndApi\SpotBackEndApi\obj\Debug\netcoreapp2.0\SpotBackEndApi.dll
+C:\Users\Weiheng Wang\source\repos\SpotBackEndApi\SpotBackEndApi\obj\Debug\netcoreapp2.0\SpotBackEndApi.pdb
