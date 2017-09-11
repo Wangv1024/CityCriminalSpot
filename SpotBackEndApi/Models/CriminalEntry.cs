@@ -8,7 +8,7 @@ namespace SpotBackEndApi.Models
     public class CriminalEntry
     {
         public uint Incident_id { get; set; }
-        public DateTime Incident_date { get; set; }
+        public string Incident_date { get; set; }
         public string Type { get; set; }   // parent_incident_type
         public string Description { get; set; }  // incident_description
         public int Hours { get; set; }

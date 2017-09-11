@@ -51,7 +51,7 @@ namespace SpotBackEndApi.Models
                         list.Add(new CriminalEntry()
                         {
                             Incident_id = reader.GetUInt32("incident_id"),
-                            Incident_date = reader.GetDateTime("incident_date").Date,
+                            Incident_date = reader.GetDateTime("incident_date").ToShortDateString(),
                             Type = reader.GetString("parent_incident_type"),
                             Description = reader.GetString("incident_description"),
                             Hours = reader.GetInt16("hour_of_day"),
