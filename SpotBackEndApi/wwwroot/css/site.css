@@ -33,3 +33,19 @@
         display: none;
     }
 }
+/*
+.gmaps {
+    margin: 0;
+    padding: 0;
+    width: 450px;
+    height: 450px;
+    border: 1px solid #555; height: 100%;
+}*/
+
+#map {
+
+    height: 700px;
+    margin: 0px;
+    border-radius: 5px;
+    border: 1px solid silver;
+}

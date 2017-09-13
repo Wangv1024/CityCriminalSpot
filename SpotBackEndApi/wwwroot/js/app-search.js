@@ -3,6 +3,8 @@
 
     "use strict";
 
-    angular.module( "app-search", [] );
+    var app = angular.module( "app-search", [] );
+
+
 
 })();
